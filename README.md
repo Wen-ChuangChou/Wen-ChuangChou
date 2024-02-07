@@ -1,5 +1,19 @@
-I am interested in AI, particularly in the area of artificial neural networks. I studied theoretical neuroscience in hopes of finding inspiration for how biological neurons interact to implement specific functions. In studying the first olfactory networks, I found that selective inhibition inhibits part of the channels according to input patterns via the recurrent network. Using a non-linear saturating transfer function, I modeled these biological neural networks to explain how to construct attractors of sensory systems, which can less or more separate neuronal patterns during signal propagation. The resulting attractor networks keep systems responsive to intermediate intensity changes and robust enough to be unresponsive to small fluctuations.
+Welcome to my GitHub garage! Here, I share my code and the outcomes of my machine learning projects.
 
+Explore the following projects and their results: 🔥
+1. Speaker Identification  
+2. Anime Face Generator  
+3. Bike Traffic Prediction
+
+Currently, I'm working on: 🔨
+1. Fine-tuning Llama-2-70b as an answer robot  
+2. Meta Learning
+
+I'm seeking assistance with the project: 🧪
+Bike Traffic Prediction
+Cleaning the bike data is crucial. For instance, on a main road, there might be four instances of bike traffic: two on the road and two on the pedestrian path. Defining a singular traffic instance along this road poses an initial challenge.
+
+Feel free to reach out for questions or comments. Enjoy your stay! 😊
 
 <!--
 **Wen-ChuangChou/Wen-ChuangChou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
