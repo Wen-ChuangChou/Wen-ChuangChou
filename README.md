@@ -6,7 +6,7 @@ Explore the following projects and their results: 🔥
 3. Bike Traffic Prediction
 
 Currently, I'm working on: 🔨  
-1. Fine-tuning Llama-2-70b as an answer robot  
+1. Fine-tuning Llama-3-(8B or 70B) for building an answer robot and sentiment analysis
 2. Meta Learning
 
 I'm seeking assistance with the project: 🧪
