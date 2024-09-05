@@ -6,8 +6,8 @@ Explore the following projects and their results: 🔥
 3. Bike Traffic Prediction
 
 Currently, I'm working on: 🔨  
-1. Fine-tuning Llama-3.1-(8B or 70B) for building an answer robot and sentiment analysis
-2. Meta Learning
+1. Optimize Graph Attention Networks hyperparameters and structural elements for bike traffic prediction.
+2. Fine-tuning Llama-3.1-(8B or 70B) for building an answer robot and sentiment analysis
 
 I'm seeking assistance with the project: 🧪
 
