@@ -1,10 +1,10 @@
 Welcome to my GitHub garage! Here, I share my code and the outcomes of my machine learning projects.
 
 Explore the following projects and their results: 🔥  
-1. [Speaker Identification](https://example.com) 
-2. Anime Face Generator  
-3. Bike Traffic Prediction
-4. Assess Emotional Tone (Sentiment Analysis)
+1. [Speaker Identification](https://github.com/Wen-ChuangChou/Speaker-identification)
+2. [Anime Face Generator](https://github.com/Wen-ChuangChou/Anime-face-generator)
+3. [Bike Traffic Prediction](https://github.com/Wen-ChuangChou/Predict-Bike-Traffic)
+4. [Assess Emotional Tone (Sentiment Analysis)](https://github.com/Wen-ChuangChou/sentiment_analysis)
 
 Currently, I'm working on: 🔨  
 1. Optimize Graph Attention Networks hyperparameters and structural elements for bike traffic prediction. :bike:
