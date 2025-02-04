@@ -1,7 +1,7 @@
 Welcome to my GitHub garage! Here, I share my code and the outcomes of my machine learning projects.
 
 Explore the following projects and their results: 🔥  
-1. Speaker Identification  
+1. [Speaker Identification](https://example.com) 
 2. Anime Face Generator  
 3. Bike Traffic Prediction
 4. Assess Emotional Tone (Sentiment Analysis)
