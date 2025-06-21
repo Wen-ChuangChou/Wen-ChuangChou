@@ -1,22 +1,25 @@
-## 🚗 Welcome to My GitHub Garage!
+## 🚗 Welcome to My AI Garage!
 
-Here you'll find a collection of my AI projects—complete with code, results, and ongoing experiments. I treat this space as a hands-on garage where ideas are built, tested, and shared.
+This is my hands-on space for building, testing, and sharing AI projects. Here, you'll find a growing collection of my work, complete with code, results, and ongoing experiments.
 
 ### 🚀 Featured Projects
-Explore some of the projects I've completed, along with their outcomes:
 
-1. 🔊 [Speaker Identification](https://github.com/Wen-ChuangChou/Speaker-identification)  
-2. 🎨 [Anime Face Generator](https://github.com/Wen-ChuangChou/Anime-face-generator)  
-3. 🚴 [Bike Traffic Prediction](https://github.com/Wen-ChuangChou/Predict-Bike-Traffic)  
-4. 💬 [Sentiment Analysis: Assessing Emotional Tone](https://github.com/Wen-ChuangChou/sentiment_analysis)  
-5. 🔧 [Open-R1 Extension: Fine-tuning and Evaluation Setup](https://github.com/Wen-ChuangChou/open-r1/tree/Qwen2.5-7B_SFT)  
+Explore some of my completed projects and their impactful outcomes:
+
+1.  **LLM Distillation:** Supervised Fine-Tuning on Distilled Data ([Open-R1](https://github.com/Wen-ChuangChou/open-r1/tree/Qwen2.5-7B_SFT))
+2.  **AI Agent:** Agentic RAG Implementation ([Agentic_RAG](https://github.com/Wen-ChuangChou/Agentic_RAG/tree/optimize/agent))
+3.  **Sentiment Analysis:** Assessing Emotional Tone in Text ([Sentiment Analysis](https://github.com/Wen-ChuangChou/sentiment_analysis))
+4.  **Bike Traffic Prediction:** Forecasting Urban Mobility Patterns ([Predict-Bike-Traffic](https://github.com/Wen-ChuangChou/Predict-Bike-Traffic))
+5.  **Speaker Identification:** Uncovering Voice Patterns ([Speaker Identification](https://github.com/Wen-ChuangChou/Speaker-identification))
+6.  **Anime Face Generator:** Creating Stylized Character Portraits ([Anime Face Generator](https://github.com/Wen-ChuangChou/Anime-face-generator))
+
 ### 🛠️ Currently in Progress
-I’m actively working on several exciting projects:
 
-1. 🤖 Building an **agentic RAG system** to answer Hugging Face technical questions—evaluating its performance against standard LLMs with and without RAG integration.  
-2. 🌀 Fine-tuning **Stable Diffusion v2** (Stability AI) using **LoRA** on Naruto images to generate stylized artwork from text prompts.  
-3. 📊 Enhancing **Graph Attention Networks (GAT)** for improved bike traffic prediction through hyperparameter and architectural optimization.  
-4. ✍️ Fine-tuning **LLaMA 3.1** (8B and 70B) to generate high-quality poetry.  
+I'm actively working on these exciting projects:
+
+1.  **Generative AI - Stable Diffusion:** Fine-tuning Stable Diffusion v2 (Stability AI) using LoRA on Naruto images to generate stylized artwork from text prompts.
+2.  **Graph Neural Networks - Bike Traffic:** Enhancing Graph Attention Networks (GAT) for improved bike traffic prediction through hyperparameter and architectural optimization.
+3.  **Large Language Models - Poetry Generation:** Fine-tuning LLaMA 3.1 (8B and 70B) to generate high-quality poetry.
 
 ### 🧪 Seeking Collaboration: Bike Traffic Prediction
 
